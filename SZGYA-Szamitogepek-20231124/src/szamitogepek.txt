@@ -1,0 +1,36 @@
+azonosító|processzor típusa|processzor sebessége|memória mérete és típusa|operációs rendszer|gyártó és modell|kijelző mérete
+0|Intel Core i5|2,8|8 GB DDR4|Windows 10 Home|Dell Inspiron 15|15,6
+1|AMD Ryzen 7|3,2|16 GB DDR4|Windows 11 Pro|HP Pavilion x360|14
+2|Intel Core i7|3,5|12 GB DDR4|macOS Big Sur|Apple MacBook Pro 13|13,3
+3|AMD Athlon 3000G|3,5|8 GB DDR4|Windows 10 Home|Lenovo IdeaCentre 3|21,5
+4|Intel Pentium Gold G6400|4|8 GB DDR4|Windows 10 Home|Acer Aspire TC-895-UA92|23,8
+5|AMD FX-8350|4|16 GB DDR3|Windows 10 Pro|Custom PC Build|27
+6|Intel Core i3-7100|3,9|8 GB DDR4|Windows 10 Home|HP Pavilion Desktop|19,5
+7|AMD A8-9600|3,1|8 GB DDR4|Windows 10 Home|Lenovo Ideacentre 510A|21,5
+8|Intel Core 2 Duo E8400|3|4 GB DDR2|Windows 7 Home|Old Custom PC|19
+9|AMD Ryzen 5|3|12 GB DDR4|Windows 10 Pro|Dell OptiPlex 5080|15,6
+10|Intel Core i9|4,2|32 GB DDR4|Windows 10 Home|Asus ROG Strix G17|17,3
+11|AMD Athlon X4 950|3,5|8 GB DDR4|Windows 10 Home|HP Pavilion Power|21,5
+12|Intel Core i5|2,7|8 GB DDR4|Windows 10 Home|Acer Chromebox|21,5
+13|AMD Ryzen 3|3,6|8 GB DDR4|Windows 10 Pro|Dell Vostro 3681|21,5
+14|Intel Pentium Silver J5040|2|4 GB DDR4|Windows 10 Home|Lenovo IdeaCentre AIO 3|23,8
+15|AMD Ryzen 7|3,8|16 GB DDR4|Windows 11 Pro|Microsoft Surface Studio 2|27
+16|Intel Core i7|3|16 GB DDR4|macOS Big Sur|Apple iMac 27|27
+17|AMD Ryzen 9|4,3|64 GB DDR4|Windows 11 Pro|Dell Alienware Aurora|23,8
+18|Intel Core i5|2,9|8 GB DDR4|Windows 10 Home|Lenovo ThinkCentre M90n|23,8
+19|AMD Ryzen 5|3,1|16 GB DDR4|Windows 11 Pro|Microsoft Surface Studio|28
+20|Intel Core i3-10100|3,6|8 GB DDR4|Windows 10 Home|Dell Inspiron Small Desktop|23,8
+21|AMD A10-9700|3,5|8 GB DDR4|Windows 10 Home|HP Slimline 290-p0043w|23,8
+22|Intel Core i9|4,1|32 GB DDR4|Windows 10 Pro|HP EliteDesk 800 G6|23,8
+23|AMD Athlon 300GE|3,4|4 GB DDR4|Windows 10 Home|Acer Aspire TC-885-UA92|23,8
+24|Intel Celeron G4920|3,2|4 GB DDR4|Windows 10 Home|Lenovo IdeaCentre 310S|23,8
+25|AMD Ryzen 3|3,5|8 GB DDR4|Windows 10 Pro|HP Pavilion TG01|23,8
+26|Intel Core i7|3,2|16 GB DDR4|Windows 10 Home|Asus VivoMini VC66|23,8
+27|AMD Ryzen 5|3,2|16 GB DDR4|Windows 10 Pro|Dell OptiPlex 7070|23,8
+28|Intel Core i5|2,8|8 GB DDR4|Windows 10 Home|HP Pavilion Desktop|23,8
+29|AMD Ryzen 7|3,6|16 GB DDR4|Windows 11 Pro|Microsoft Surface Studio 2|27
+30|Intel Core i7|3|16 GB DDR4|macOS Big Sur|Apple iMac 27|27
+31|AMD Ryzen 9|4,3|64 GB DDR4|Windows 11 Pro|Dell Alienware Aurora|27
+32|Intel Core i5|2,9|8 GB DDR4|Windows 10 Home|Lenovo ThinkCentre M90n|27
+33|AMD Ryzen 5|3,1|16 GB DDR4|Windows 11 Pro|Microsoft Surface Studio|27
+34|Intel Core i3-10100|3,6|8 GB DDR4|Windows 10 Home|Dell Inspiron Small Desktop|27

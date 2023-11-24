@@ -1,0 +1,35 @@
+﻿Dell Inspiron 15|39,624
+HP Pavilion x360|35,559998
+Apple MacBook Pro 13|33,782
+Lenovo IdeaCentre 3|54,61
+Acer Aspire TC-895-UA92|60,451996
+Custom PC Build|68,58
+HP Pavilion Desktop|49,53
+Lenovo Ideacentre 510A|54,61
+Old Custom PC|48,26
+Dell OptiPlex 5080|39,624
+Asus ROG Strix G17|43,941998
+HP Pavilion Power|54,61
+Acer Chromebox|54,61
+Dell Vostro 3681|54,61
+Lenovo IdeaCentre AIO 3|60,451996
+Microsoft Surface Studio 2|68,58
+Apple iMac 27|68,58
+Dell Alienware Aurora|60,451996
+Lenovo ThinkCentre M90n|60,451996
+Microsoft Surface Studio|71,119995
+Dell Inspiron Small Desktop|60,451996
+HP Slimline 290-p0043w|60,451996
+HP EliteDesk 800 G6|60,451996
+Acer Aspire TC-885-UA92|60,451996
+Lenovo IdeaCentre 310S|60,451996
+HP Pavilion TG01|60,451996
+Asus VivoMini VC66|60,451996
+Dell OptiPlex 7070|60,451996
+HP Pavilion Desktop|60,451996
+Microsoft Surface Studio 2|68,58
+Apple iMac 27|68,58
+Dell Alienware Aurora|68,58
+Lenovo ThinkCentre M90n|68,58
+Microsoft Surface Studio|68,58
+Dell Inspiron Small Desktop|68,58
